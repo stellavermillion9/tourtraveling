@@ -1,0 +1,13 @@
+.bg-footer-top {
+  background-color: #eaebf4 !important;
+}
+
+.bg-footer-bottom {
+  background-color: #424242 !important;
+}
+
+.text-footer {
+  text-align: center;
+  color: white !important;
+  font-weight: 300;
+}
