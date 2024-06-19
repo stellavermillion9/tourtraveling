@@ -5,7 +5,7 @@ const EventRoutes = require('./routes/eventRoutes');
  
 const init = async () => {
   const server = Hapi.server({
-    port: 3030,
+    port: 3000,
     host: 'localhost',
     routes: {
       cors: {
