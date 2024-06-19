@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon ./src/server.js",
     "lint": "eslint ./src"
-    "build": "build --output ./src"
+    "build": "build --output ./src/public"
   },
   "keywords": [],
   "author": "",
