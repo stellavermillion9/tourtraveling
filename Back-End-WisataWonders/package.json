@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "scripts": {
-    "build": "[my-framework] build --output public"
-  }
+  
   "scripts": {
     "start": "nodemon ./src/server.js",
     "lint": "eslint ./src"
+    "build": "build --output ./src"
   },
   "keywords": [],
   "author": "",
